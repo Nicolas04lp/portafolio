@@ -55,9 +55,9 @@ div h2 {
 
 }
 /* Estilos de foto */
-.photo {
+.photo  img {
     margin: 20px;
-    height: 400px;
+    height: 350px;
     max-width: 100%;
     width: auto;
     background-image: url(https://scontent.fbog10-1.fna.fbcdn.net/v/t1.0-9/127280805_2818706701734425_2195513167470836824_o.jpg?_nc_cat=101&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeEpK0oHZ4iiEGMjBvEfcY8zQAiajZzOxt1ACJqNnM7G3YcUHjLpSVHivmPJ3BDTePi7_b8u_DiAQBLfensxD8RZ&_nc_ohc=CN36r9CbFccAX9_WXYd&_nc_ht=scontent.fbog10-1.fna&oh=38d70efce790b0bf8267eadc35293bc9&oe=5FF1172A);
@@ -79,7 +79,7 @@ div h2 {
     padding: 10px 0px;
 }
 .margin {
-    margin: 20px;
+    margin: 40px;
 }
 /* Mis servicios */
 .bg-services {
